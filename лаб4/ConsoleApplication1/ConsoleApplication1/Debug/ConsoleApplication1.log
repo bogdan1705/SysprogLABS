@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+d:\системне програмування\лаб4\consoleapplication1\consoleapplication1\consoleapplication1.cpp(15): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  ConsoleApplication1.vcxproj -> D:\Системне програмування\лаб4\ConsoleApplication1\Debug\ConsoleApplication1.exe
